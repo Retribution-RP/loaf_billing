@@ -3,7 +3,7 @@ Config = {
 
     -- esx options:
     MenuAlign = "bottom-right", -- the esx_menu_default menu location
-    ReplaceESXBilling = true, -- replace esx billing? this will make the script work with esx_billing events
+    ReplaceESXBilling = false, -- replace esx billing? this will make the script work with esx_billing events
 
     Command = "bills",
     Keybind = {
